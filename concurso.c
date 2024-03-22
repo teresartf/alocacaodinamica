@@ -32,6 +32,7 @@ int main(){
     for (int i = 0; i < tam; i++) {
         printf("%d\n", premiados_indices[i]);
     }
+    
     printf("\n")
 
     free(premiados_indices);
